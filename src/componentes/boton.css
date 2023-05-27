@@ -1,0 +1,13 @@
+button {
+    width: 250px;
+    height: 50px;
+    margin: 5px;
+    justify-content: center;
+    padding: 15px;
+    margin: auto;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button:hover {
+    background-color: fuchsia;
+}
