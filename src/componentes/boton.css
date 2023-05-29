@@ -1,13 +1,15 @@
 button {
-    width: 250px;
-    height: 50px;
+    width: 200px;
+    height: 30px;
     margin: 5px;
     justify-content: center;
-    padding: 15px;
+    background-color: aliceblue;
+    border-radius: 100px;
     margin: auto;
     font-size: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
+        sans-serif;
 }
 button:hover {
-    background-color: fuchsia;
+    background-color: rgb(140, 214, 211);
 }
