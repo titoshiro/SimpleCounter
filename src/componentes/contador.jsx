@@ -4,10 +4,10 @@ import React from 'react';
 import PropTypes from "prop-types";
 import "./contador.css"
 
-function Contador({numClic}){
+function Contador({tiempo}){
     return(
     <div className="contador">
-    {numClic}
+    {tiempo}
     </div>
     );
 }
